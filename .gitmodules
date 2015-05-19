@@ -1,3 +1,9 @@
-[submodule "source/code/EMonArduinoNode"]
-	path = source/code/EMonArduinoNode
+[submodule "source/code/ArduinoNode"]
+	path = source/code/ArduinoNode
 	url = https://github.com/CentreForAlternativeTechnology/ArduinoNode.git
+[submodule "source/code/NodeManager"]
+	path = source/code/NodeManager
+	url = https://github.com/CentreForAlternativeTechnology/NodeManager
+[submodule "source/code/PressureSensorNode"]
+	path = source/code/PressureSensorNode
+	url = https://github.com/CentreForAlternativeTechnology/PressureSensorNode
