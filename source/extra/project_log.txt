@@ -1,0 +1,23 @@
+Most of Jan	Researching components and libraries to use
+Most of Feb	Testing components and beginning breadboarding
+Most of Mar	Breadboarding functioning work and creating EMonCMSLib
+1/4/2015	Hardware Dev - PNP transistors for switching between programming mode and sensor mode. Used resistors instead
+2/4/2015	Hardware Dev - Creating main node board + testing RTC
+3/4/2015	Hardware Dev - Sticking main board to perspex and developing sensor interface board and sticking it to perspex.
+4/4/2015	Hardware Dev - Testing sensor interface board, interfacing with node board.
+		Software Dev - Implemented sending post requests based on time. Enabling programming mode switch.
+5/4/2015 -	Hardware Dev - Finished hardware, implemented second Arduino for reading sensor. Attempted debugging over I2C
+10/4/2015	Software Dev - Bug fixes for posting. Implemented fetching values over I2C. 
+11/4/2015	Software Dev - Created serial application to configure settings and begun calibration software.
+12/4/2015	Adding calibration to serial application
+13/4/2015	Adding calibration to serial application
+14/4/2015	Adding calibration to serial application. Beginning cryptography implementation.
+15/5/2015	First implementation of cryptography
+16/5/2015	Changes to encryption to not use CBC/IV's and fixing builds/slight tidy up
+17/5/2015	Next draft of encryption after standard agreed. Addition of sleep code.
+18/5/2015	More work on sleep. Added time libraries and created alarm code.
+19/5/2015 -	Attempt to fix and actual fix of mesh network not connecting bug.
+20/5/2015
+21/5/2015	Fixed mesh connect bug. AES lib not compatible with gateway did a bit of research and used 3DES instead.
+		Tidied up code. Minimized size. Finished cryptography. Fixed tests. Made emoncms code a library. Updated
+		to latest RF24Mesh code which allows setting data rate and channel.

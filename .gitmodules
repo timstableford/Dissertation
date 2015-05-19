@@ -1,0 +1,3 @@
+[submodule "source/code/EMonArduinoNode"]
+	path = source/code/EMonArduinoNode
+	url = https://github.com/CentreForAlternativeTechnology/ArduinoNode.git

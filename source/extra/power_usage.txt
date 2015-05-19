@@ -1,0 +1,2 @@
+full sleep	0.58ma
+wdt sleep	0.65ma
